@@ -8,9 +8,9 @@ This repository contains the implementation of BengaliOCR system and preprocessi
   `Run "Book_Page_Cropper.ipynb" Notebook to perform page cropping process.`
   
 `INPUT`
-![1](https://user-images.githubusercontent.com/16709991/83765077-8aae2900-a69c-11ea-9fe2-66642aef345b.png)
+![1](https://user-images.githubusercontent.com/16709991/83765475-0a3bf800-a69d-11ea-8ab7-d0e75fa502d7.png)
 `OUTPUT`
-![Res_4_re(2048)](https://user-images.githubusercontent.com/16709991/83765081-8d108300-a69c-11ea-8d6d-3ef93edcb8f3.png)
+![Res_4_re(2048)](https://user-images.githubusercontent.com/16709991/83765489-0d36e880-a69d-11ea-9fe2-6ef598d7c4d8.png)
 
 
   ## Multi Colored Text Enhancement
