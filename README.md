@@ -6,7 +6,6 @@ This repository contains the implementation of BengaliOCR system and preprocessi
   This pre-process technique cut out the unwanted background portion and extract the written area from the image.
   Run "Book_Page_Cropper.ipynb" Notebook to perform page cropping process.
   
-  
   ## Multi Colored Text Enhancement
   Some text lines are difficult or impossible to recognize when text is colorful. 
   So this pre-processing teqhnique is based on intelligent binarization and image color processing.
