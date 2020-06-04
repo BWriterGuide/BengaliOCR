@@ -1,5 +1,5 @@
 # BengaliOCR 
-This repository contains the implementation of BengaliOCR system and processings.
+This repository contains the implementation of BengaliOCR system and preprocessings.
 
 # Pre Process:
   ## Page Cropper
