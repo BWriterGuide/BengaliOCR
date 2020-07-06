@@ -18,7 +18,7 @@ This repository contains the implementation of BengaliOCR system and preprocessi
   So this pre-processing teqhnique is based on intelligent binarization and image color processing.
   It enhances the color text lines and convert the color and greyscale images into black-and-white images successfully.
   
-  `Run "Multi_Colored_Text_Enhancement.ipynb" Notebook to perform page cropping process.`
+  `Run "Multi_Colored_Text_Enhancement.ipynb" Notebook to perform colored text transformation process.`
   
 `INPUT`
 
